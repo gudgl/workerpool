@@ -2,7 +2,7 @@
 
 -----
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
-[![GitHub release](https://img.shields.io/badge/release-v1.2.10-blue)](https://github.com/gudgl/job-workers/releases)
+[![GitHub release](https://img.shields.io/badge/release-v0.0.1-blue)](https://github.com/gudgl/job-workers/releases)
 [![Go Reference](https://pkg.go.dev/badge/github.com/gudgl/job-workers.svg)](https://pkg.go.dev/github.com/gudgl/workerpool)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/gudgl/workerpool/blob/main/LICENSE)
 
