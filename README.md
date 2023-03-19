@@ -7,7 +7,10 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/gudgl/workerpool/blob/main/LICENSE)
 
 
-jw is a library for asynchronous execution of tasks and handling results from them
+Workerpool is a library for asynchronous execution of jobs and handling results from them
+it was made for learning purposes and included generics to touch this topic for the first time. 
+Even that this is not the best place to use it. Try it out you can run concurrent jobs and handle their results concurrently.
+Open an issue and suggest some improvements so I can learn and maybe this will be usefull to someone.
 
 ## Install
 
