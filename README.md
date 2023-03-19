@@ -3,12 +3,12 @@
 -----
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
 [![GitHub release](https://img.shields.io/badge/release-v1.2.10-blue)](https://github.com/gudgl/job-workers/releases)
-[![Go Reference](https://pkg.go.dev/badge/github.com/gudgl/job-workers.svg)](https://pkg.go.dev/github.com/gudgl/workerpool)
+[![Go Reference](https://pkg.go.dev/badge/github.com/gudgl/workerpool.svg)](https://pkg.go.dev/github.com/gudgl/workerpool)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/gudgl/workerpool/blob/main/LICENSE)
 
 
-Workerpool is a library for asynchronous execution of jobs and handling results from them
-it was made for learning purposes and included generics to touch this topic for the first time. 
+Workerpool is a library for asynchronous execution of jobs and handling results from them.
+It was made for learning purposes and included generics to touch this topic for the first time. 
 Even that this is not the best place to use it. Try it out you can run concurrent jobs and handle their results concurrently.
 Open an issue and suggest some improvements so I can learn and maybe this will be usefull to someone.
 
